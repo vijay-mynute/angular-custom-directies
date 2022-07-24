@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+}
+blue {
+  background-color: lightblue;
+}
+.toggle {
+  background-color: yellow
+}
+
+ 
+.tooltip {
+  display: inline-block;
+  border-bottom: 1px dotted black; 
+  position: absolute;
+}
